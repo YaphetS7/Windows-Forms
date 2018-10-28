@@ -1,0 +1,11 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\Bot_Manager\Bot_Manager\bin\Debug\Bot_Manager.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\Bot_Manager\Bot_Manager\bin\Debug\Bot_Manager.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Bot_Manager\Bot_Manager\bin\Debug\Bot_Manager.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Bot_Manager\Bot_Manager\obj\Debug\Bot_Manager.csprojAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\Bot_Manager\Bot_Manager\obj\Debug\Bot_Manager.FormMain.resources
+C:\Users\user\Documents\Visual Studio 2017\Projects\Bot_Manager\Bot_Manager\obj\Debug\Bot_Manager.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2017\Projects\Bot_Manager\Bot_Manager\obj\Debug\Bot_Manager.csproj.GenerateResource.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\Bot_Manager\Bot_Manager\obj\Debug\Bot_Manager.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\Bot_Manager\Bot_Manager\obj\Debug\Bot_Manager.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Bot_Manager\Bot_Manager\obj\Debug\Bot_Manager.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Bot_Manager\Bot_Manager\obj\Debug\Bot_Manager.FormSettings.resources
